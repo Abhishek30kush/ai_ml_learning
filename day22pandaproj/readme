@@ -1,0 +1,8 @@
+# Pandas Project 
+# Student Performance Analyzer
+# project objective -> Analyze student performance data using pandas and extract insights like : 
+# -Average marks
+# -Top performance
+# -subject-wise analysis
+# -pass/fail percentage
+# -visual insights( optional with matplotlib)
