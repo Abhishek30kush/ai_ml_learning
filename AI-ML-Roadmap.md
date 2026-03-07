@@ -75,6 +75,7 @@ From Zero → Build Real AI Products → Launch SaaS → Teach on YouTube.
 ---
 
 ## 🧬 PHASE 3 — DEEP LEARNING (4–6 Weeks)
+https://keras.io/ (Keras is a deep learning API designed for human beings, not machines. Keras focuses on debugging speed, code elegance & conciseness, maintainability, and deployability. When you choose Keras, your codebase is smaller, more readable, easier to iterate on.)
 
 ### Topics
 - Neural Networks  
@@ -107,7 +108,7 @@ From Zero → Build Real AI Products → Launch SaaS → Teach on YouTube.
 - Exam Evaluator  
 
 ---
-
+-- Calculus optimization
 ## 🎥 CONTENT ENGINE (YouTube)
 
 ### Series Ideas
