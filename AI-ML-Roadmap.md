@@ -40,6 +40,7 @@ From Zero → Build Real AI Products → Launch SaaS → Teach on YouTube.
 ### Math for ML (Applied Only)
 **Topics**
 - Vectors & Matrices   (https://github.com/Sana-AI-ML/ML-Books-Jason-Brownlee/blob/master/01.%20Linear%20Algebra%20for%20Machine%20Learning.pdf)
+
 - Probability (mean, variance)  
 - Gradient intuition  
 

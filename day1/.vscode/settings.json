@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": false,
+    "accessibility.signals.chatResponseReceived": {
+        "sound": "off"
+    },
+    "editor.allowVariableFontsInAccessibilityMode": false
+}
